@@ -1,6 +1,4 @@
 ### Hi there 👋
-Hello everyone who visit the page!
-
 <!--
 **HW140701/HW140701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
